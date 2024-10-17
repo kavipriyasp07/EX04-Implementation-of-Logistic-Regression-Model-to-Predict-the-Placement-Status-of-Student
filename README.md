@@ -72,7 +72,6 @@ cm_display.plot()
 ![Screenshot 2024-10-17 103525](https://github.com/user-attachments/assets/b18a96e5-9627-46fa-9a7c-de344aaa57ee)
 ![Screenshot 2024-10-17 103535](https://github.com/user-attachments/assets/72672f6c-4843-4ac5-b613-4066c1f6b15f)
 ![Screenshot 2024-10-17 103643](https://github.com/user-attachments/assets/0271028a-be54-4957-b59e-ceff48591ccf)
-![Screenshot 2024-10-17 103655](https://github.com/user-attachments/assets/a5cf91c1-a1a1-4420-bd6e-09ffa9a82a0b)
 ![Screenshot 2024-10-17 103655](https://github.com/user-attachments/assets/a336ed2f-385c-4810-a2b0-982dcc238a71)
 
 ![Screenshot 2024-10-17 103708](https://github.com/user-attachments/assets/2b56c114-dfaf-43e8-8d37-fcf465c3dba5)
